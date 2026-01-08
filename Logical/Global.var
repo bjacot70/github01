@@ -1,0 +1,3 @@
+VAR RETAIN
+	Machine_Settings : Machine_Settings_typ; (*Machine Parameters that are Remanent*)
+END_VAR
